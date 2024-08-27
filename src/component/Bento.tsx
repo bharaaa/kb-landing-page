@@ -1,7 +1,8 @@
-import React from 'react'
+import React from "react";
 
 export const Bento = () => {
   return (
-    <div>B</div>
-  )
-}
+    <div className="min-h-screen bg-zinc-900">
+    </div>
+  );
+};
