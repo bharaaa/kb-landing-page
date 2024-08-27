@@ -1,9 +1,10 @@
 import "./App.css";
+import { Bento } from "./component/Bento";
 
 function App() {
   return (
     <>
-      <div></div>
+      <Bento/>
     </>
   );
 }
