@@ -172,7 +172,9 @@ const LocationBlock = () => {
 const EmailBlock = () => {
   return (
     <Block className="col-span-12 flex row-span-2 place-content-center flex-col items-center md:col-span-4 text-black hover:text-white hover:bg-black hover:border-black transition-all duration-500">
-      <p className="">My email</p>
+      <a href="mailto:bharalfhani@gmail.com" target="tab">
+        My email
+      </a>
     </Block>
   );
 };
