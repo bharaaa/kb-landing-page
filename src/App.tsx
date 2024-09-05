@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Bento/>
+      <div className="cursor"></div>
     </>
   );
 }
